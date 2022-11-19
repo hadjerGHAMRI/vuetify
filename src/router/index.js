@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Profile from '../views/ProfileView.vue'
+import Profile from '@/views/Profile.vue'
 
 Vue.use(VueRouter)
 
