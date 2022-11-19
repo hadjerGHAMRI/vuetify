@@ -4,7 +4,7 @@
     <v-container class="black mx-auto" fluid style="height: 120px">
       <v-layout row wrap justify-center>
         <v-flex xs3 sm3 md2 ma-5>
-          <img src="/neaper_logo.png" height="20" class="white--text darken-4" />
+          <img src="/logo.png" height="20" class="white--text darken-4" />
         </v-flex>
         <v-flex xs6 sm6 offset-sm3 mt-16>
           <v-avatar size="70" class="grey lighten-2">
